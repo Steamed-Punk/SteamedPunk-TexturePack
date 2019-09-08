@@ -4,7 +4,7 @@
 
 # Only the default and a handful of others have been converted so far.
 
-![Image description](https://raw.githubusercontent.com/Steamed-Punk/SteamedPunk-TexturePack/master/screenshot.png?token=ANDKMR6DHRQK3MWS6353GWC5OUR2W)
+![Image description](https://raw.githubusercontent.com/Steamed-Punk/SteamedPunk-TexturePack/master/screenshot.png?token=ANDKMR4RNNHZE3FLBSRPMPK5OUV3U)
 
 This will be a high-res (256x256x256) texture pack for Minetest.
 Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
