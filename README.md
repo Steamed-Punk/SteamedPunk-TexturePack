@@ -4,13 +4,6 @@
 
 # Only the default and a handful of others have been converted so far.
 
-
-mpboom
-mpboom
-Commander Lvl 3
-‎01-30-2018 07:48 AM
-Message 4 of 8
-
 ![Image description](https://raw.githubusercontent.com/Steamed-Punk/SteamedPunk-TexturePack/master/screenshot.png?token=ANDKMR6DHRQK3MWS6353GWC5OUR2W)
 
 This will be a high-res (256x256x256) texture pack for Minetest.
