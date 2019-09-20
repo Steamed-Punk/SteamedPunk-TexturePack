@@ -7,7 +7,7 @@
 ![Image description](https://raw.githubusercontent.com/Steamed-Punk/SteamedPunk-TexturePack/master/screenshot.png?token=ANDKMR4RNNHZE3FLBSRPMPK5OUV3U)
 
 This will be a high-res (256x256x256) texture pack for Minetest.
-Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 The textures within this pack all started somewhere - Either my camera or online downloaded sites, some of which do not allow commercial use.
 Except once a few years ago this pack was never re-released for all the following updates to MC. I up sized and re-done them over the years for personal use only. Family and close friends.
