@@ -9,7 +9,7 @@
 This is a high-res (256x256x256) texture pack for Minetest.
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-The textures within this pack all started somewhere - Either my camera or online downloaded sites, some of which do not allow commercial use.
+The textures within this pack all started somewhere - Either my camera or online downloaded sites.
 Except once a few years ago this pack was never re-released for all the following updates to MC. I up sized and re-done them over the years for personal use only. Family and close friends.
 99% of the images have been edited to make them work and look the best I can for your use. There is the odd one or three that are straight download, resize and rename, but not many and only because they are more or less perfect as they are. The default_grass is a good example. I still had to rework it for the default_grass_side though.
 
