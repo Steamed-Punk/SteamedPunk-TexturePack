@@ -2,12 +2,14 @@
 
 **!!! WORK IN PROGRESS !!!**
 
+# Only the default and a handful of others have been converted so far.
+
 ![Image description](https://raw.githubusercontent.com/Steamed-Punk/SteamedPunk-TexturePack/master/screenshot.png?token=ANDKMR4RNNHZE3FLBSRPMPK5OUV3U)
 
 This will be a high-res (256x256x256) texture pack for Minetest.
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-The textures within this pack all started somewhere - Either my camera or online downloaded sites.
+The textures within this pack all started somewhere - Either my camera or online downloaded sites, some of which do not allow commercial use.
 Except once a few years ago this pack was never re-released for all the following updates to MC. I up sized and re-done them over the years for personal use only. Family and close friends.
 99% of the images have been edited to make them work and look the best I can for your use. There is the odd one or three that are straight download, resize and rename, but not many and only because they are more or less perfect as they are. The default_grass is a good example. I still had to rework it for the default_grass_side though.
 
@@ -20,7 +22,7 @@ Feel free to contact me in the forums, if you see any errors I miss along the wa
 ---------------------------------------------------------------------------
 
 This Textures_Pack for Minetest is:
-# licensed under (CC BY-SA 4.0)
+# licensed under (CC BY-NC 3.0)
 - Copyright (C) 2019 Steamed_Punk <steamedpunk.mt at gmail.com>
 - Forum Topic:
 - <https://forum.minetest.net/viewtopic.php?f=4&t=23280&p=356655#p356655>
