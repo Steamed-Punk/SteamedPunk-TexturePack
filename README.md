@@ -2,11 +2,11 @@
 
 **!!! WORK IN PROGRESS !!!**
 
-# Only the default and a handful of others have been converted so far.
+# Only the default and all those contained within the default Minetest_Game have been converted so far.
 
 ![Image description](https://raw.githubusercontent.com/Steamed-Punk/SteamedPunk-TexturePack/master/screenshot.png?token=ANDKMR4RNNHZE3FLBSRPMPK5OUV3U)
 
-This will be a high-res (256x256x256) texture pack for Minetest.
+This is a high-res (256x256x256) texture pack for Minetest.
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 The textures within this pack all started somewhere - Either my camera or online downloaded sites, some of which do not allow commercial use.
