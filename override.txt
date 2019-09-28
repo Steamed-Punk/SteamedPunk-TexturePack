@@ -1,0 +1,2 @@
+bones:bones left bones_side.png
+bones:bones right bones_side_2.png
